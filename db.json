@@ -1,0 +1,39 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "CardCode": "000001",
+      "email": "Client@gmail.com",
+      "name": "John Travolta",
+      "phone": "036001020"
+    },
+    {
+      "id": "2",
+      "CardCode": "000002",
+      "email": "Client@gmail.com",
+      "name": "John Doe",
+      "phone": "036001020"
+    },
+    {
+      "id": "3",
+      "CardCode": "000003",
+      "email": "Client@gmail.com",
+      "name": "sa3id",
+      "phone": "036001020"
+    },
+    {
+      "id": "4",
+      "CardCode": "000003",
+      "email": "Client@gmail.com",
+      "name": "nasro",
+      "phone": "036001020"
+    },
+    {
+      "id": "5",
+      "CardCode": "000003",
+      "email": "Client@gmail.com",
+      "name": "fairouz",
+      "phone": "036001020"
+    }
+  ]
+}
